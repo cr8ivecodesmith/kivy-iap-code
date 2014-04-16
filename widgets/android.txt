@@ -1,0 +1,3 @@
+title=Kivy IAP Code - Widgets
+author=Matt Lebrun
+orientation=portrait
