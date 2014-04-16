@@ -1,0 +1,3 @@
+title=Kivy IAP Code - Hello2
+author=Matt Lebrun
+orientation=portrait
